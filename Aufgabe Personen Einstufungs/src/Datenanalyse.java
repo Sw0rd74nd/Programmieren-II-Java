@@ -8,18 +8,15 @@ public class Datenanalyse {
 
         for (Person person : neueListe) {
 
-            System.out.println(person);
+            System.out.println("\n" + person);
         }
     }
 
-    public static void adressenAnzahl(List<Person> a) {
+    public static void adressenAnzahl(List<Person> a, int n) {
 
-        List<Person> anzahlAdresseListe = a.stream().filter(b -> b.getAdresse().size() >= 2).toList();
+        int anzahl =  (int) a.stream().filter(b -> b.getAdresse().size() >= n).count();
 
-        for (Person person : anzahlAdresseListe) {
-            System.out.println(person);
-        }
-
+        System.out.println("\nSo viele Personen haben mehr als eine Adresse:" + anzahl);
     }
 
 }

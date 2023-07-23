@@ -45,7 +45,7 @@ public class Main {
         Dateien.createFile(personen);
 
         Datenanalyse.sucheBindestrich(personen);
-        Datenanalyse.adressenAnzahl(personen);
+        Datenanalyse.adressenAnzahl(personen, 1);
 
 
     }
