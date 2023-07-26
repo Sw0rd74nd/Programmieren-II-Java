@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe Bruchzahlen/Aufgabe Bruchzahlen.iml" filepath="$PROJECT_DIR$/Aufgabe Bruchzahlen/Aufgabe Bruchzahlen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe Fahrzeug/Aufgabe Fahrzeug.iml" filepath="$PROJECT_DIR$/Aufgabe Fahrzeug/Aufgabe Fahrzeug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe Personen Einstufungs/Aufgabe Personen Einstufungs.iml" filepath="$PROJECT_DIR$/Aufgabe Personen Einstufungs/Aufgabe Personen Einstufungs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe Ware/Aufgabe Ware.iml" filepath="$PROJECT_DIR$/Aufgabe Ware/Aufgabe Ware.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Programmieren-II-Java.iml" filepath="$PROJECT_DIR$/.idea/Programmieren-II-Java.iml" />
+    </modules>
+  </component>
+</project>
